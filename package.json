@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-homework-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "start:dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/an-shem/nodejs-homework-01.git"
+  },
+  "author": "Andrey_Shemet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/an-shem/nodejs-homework-01/issues"
+  },
+  "homepage": "https://github.com/an-shem/nodejs-homework-01#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^8.2.0"
+  }
+}
